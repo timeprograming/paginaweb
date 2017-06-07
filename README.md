@@ -1,6 +1,8 @@
 # paginaweb
-Proyecto a aprendizaje en pagina web
+Proyecto a aprendizaje en pagina web 
+Tamara
 Roberto
 Alejo
+Lucas
 Valeria
 Lucas
