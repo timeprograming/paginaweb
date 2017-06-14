@@ -4,7 +4,7 @@ Proyecto a aprendizaje en pagina web
 Antonela toconás
 Tamara
 Roberto
-*Alejo
+* Alejo
 Lucas
 Valeria
 Lucas
