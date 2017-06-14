@@ -5,7 +5,6 @@ Antonela toconás
 * Tamara
 * Antonela toconás
 Roberto
-Alejo
 * Lucas
 Valeria
 * Alejo
