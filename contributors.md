@@ -2,7 +2,7 @@
 
 Proyecto a aprendizaje en pagina web 
 Antonela toconás
-Tamara
+* Tamara
 Roberto
 Alejo
 Lucas
