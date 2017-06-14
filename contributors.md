@@ -1,7 +1,7 @@
 ﻿# paginaweb
 
 Proyecto a aprendizaje en pagina web 
-Antonela toconás
+* Antonela toconás
 Tamara
 Roberto
 * Alejo
