@@ -1,11 +1,12 @@
-# paginaweb
+﻿# paginaweb
 
 Proyecto a aprendizaje en pagina web 
 Antonela toconás
 * Tamara
+* Antonela toconás
 Roberto
-Alejo
+* Alejo
 Lucas
-Valeria
+*Valeria
 Lucas
 
