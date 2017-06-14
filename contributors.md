@@ -6,6 +6,6 @@ Tamara
 Roberto
 Alejo
 Lucas
-Valeria
+*Valeria
 Lucas
 
