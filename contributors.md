@@ -7,6 +7,6 @@ Antonela toconás
 Roberto
 * Alejo
 Lucas
-*Valeria
+* Valeria
 Lucas
 
